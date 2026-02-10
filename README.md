@@ -1,16 +1,19 @@
-## Hi there 👋
+ Hi, I'm John Stephine Okiru Otieno 👋
 
-<!--
-**okirustephine-cloud/okirustephine-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | AI Enthusiast | Public Health Graduate
 
-Here are some ideas to get you started:
+I am a data-driven professional with a strong interest in data science, machine learning, and AI applications in public health and business decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Skills**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- Power BI
+- Git & GitHub
+
+**Projects**
+- Titanic Survival Analysis (EDA + ML)
+- Hotel Revenue & KPI Analysis (Power BI + Python)
+- Customer Churn Prediction
+- Public Health Data Analysis
+
+
